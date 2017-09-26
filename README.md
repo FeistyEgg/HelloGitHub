@@ -1,3 +1,2 @@
 # HelloGitHub
-myFirst
-9.26 zhende aishang
+live better , because we will dead for along time
